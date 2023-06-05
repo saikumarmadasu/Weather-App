@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "07EE124C-389E-4B5A-83CC-752950FC9A4A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9B04F815-FD8B-40E2-9244-4A46A89B27C6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherReport/Views/WeatherDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "fetchWeatherDatafromURL(_:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8527CD9E-10FF-40DC-BBA4-EFA7C7461DC7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherReport/Views/WeatherDataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "fetchWeatherDatafrom(_:longitute:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6D093FCB-A6DE-4F09-981C-B9DF9C2726DE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherReport/ViewModels/WeatherDataViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "getLastSavedWeatherData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6D093FCB-A6DE-4F09-981C-B9DF9C2726DE - fad50e1a2cad6af5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherReport.WeatherDataViewModel.getLastFetchedWeatherData() -&gt; Swift.Optional&lt;WeatherReport.WeatherDataModel&gt;"
+                  moduleName = "WeatherReport"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/balakrishnaambati/Desktop/WeatherReport/WeatherReport/ViewModels/WeatherDataViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "460">
+               </Location>
+               <Location
+                  uuid = "6D093FCB-A6DE-4F09-981C-B9DF9C2726DE - fad50e1a2cad6a14"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherReport.WeatherDataViewModel.getLastFetchedWeatherData() -&gt; Swift.Optional&lt;WeatherReport.WeatherDataModel&gt;"
+                  moduleName = "WeatherReport"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/balakrishnaambati/Desktop/WeatherReport/WeatherReport/ViewModels/WeatherDataViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "6D093FCB-A6DE-4F09-981C-B9DF9C2726DE - fad50e1a2cad6a14"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherReport.WeatherDataViewModel.getLastFetchedWeatherData() -&gt; Swift.Optional&lt;WeatherReport.WeatherDataModel&gt;"
+                  moduleName = "WeatherReport"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/balakrishnaambati/Desktop/WeatherReport/WeatherReport/ViewModels/WeatherDataViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "296">
+               </Location>
+               <Location
+                  uuid = "6D093FCB-A6DE-4F09-981C-B9DF9C2726DE - 96b4dfabc0b36d86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherReport.WeatherDataViewModel.getLastSavedWeatherData() -&gt; Swift.Optional&lt;WeatherReport.WeatherDataModel&gt;"
+                  moduleName = "WeatherReport"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/balakrishnaambati/Desktop/WeatherReport/WeatherReport/ViewModels/WeatherDataViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "6D093FCB-A6DE-4F09-981C-B9DF9C2726DE - 96b4dfabc0b36d86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherReport.WeatherDataViewModel.getLastSavedWeatherData() -&gt; Swift.Optional&lt;WeatherReport.WeatherDataModel&gt;"
+                  moduleName = "WeatherReport"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/balakrishnaambati/Desktop/WeatherReport/WeatherReport/ViewModels/WeatherDataViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "312">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9A1299F4-96AC-4FB7-B986-323C2B373F02"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherReport/ViewModels/WeatherDataViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "getLastSavedWeatherData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9A1299F4-96AC-4FB7-B986-323C2B373F02 - fad50e1a2cad6ad6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherReport.WeatherDataViewModel.getLastFetchedWeatherData() -&gt; Swift.Optional&lt;WeatherReport.WeatherDataModel&gt;"
+                  moduleName = "WeatherReport"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/balakrishnaambati/Desktop/WeatherReport/WeatherReport/ViewModels/WeatherDataViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "460">
+               </Location>
+               <Location
+                  uuid = "9A1299F4-96AC-4FB7-B986-323C2B373F02 - 96b4dfabc0b36e44"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherReport.WeatherDataViewModel.getLastSavedWeatherData() -&gt; Swift.Optional&lt;WeatherReport.WeatherDataModel&gt;"
+                  moduleName = "WeatherReport"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/balakrishnaambati/Desktop/WeatherReport/WeatherReport/ViewModels/WeatherDataViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "468">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "89CB33DC-A93B-474B-808C-AB4A84A806D2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherReport/Views/WeatherDataViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "didUpdateWeatherData(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "89CB33DC-A93B-474B-808C-AB4A84A806D2 - ca3c757bf7b77bb8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in WeatherReport.WeatherDataViewController.didUpdateWeatherData(Swift.Optional&lt;WeatherReport.WeatherDataModel&gt;) -&gt; ()"
+                  moduleName = "WeatherReport"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/balakrishnaambati/Desktop/WeatherReport/WeatherReport/Views/WeatherDataViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "160">
+               </Location>
+               <Location
+                  uuid = "89CB33DC-A93B-474B-808C-AB4A84A806D2 - ca3c757bf7b77bb8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in WeatherReport.WeatherDataViewController.didUpdateWeatherData(Swift.Optional&lt;WeatherReport.WeatherDataModel&gt;) -&gt; ()"
+                  moduleName = "WeatherReport"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/balakrishnaambati/Desktop/WeatherReport/WeatherReport/Views/WeatherDataViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "220">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
